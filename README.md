@@ -1,3 +1,12 @@
+# my project
 ## simple merge
-- hshdj
+
+### tech used
+- react
+- nodeJs
+
+
+
+🤠
+📖
 
